@@ -1,0 +1,7 @@
+CRITICAL - 2022-06-27 15:27:27 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 ROOTPATH\spark(71): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2022-06-27 15:28:04 --> Call to undefined function CodeIgniter\locale_set_default()
+in SYSTEMPATH\CodeIgniter.php on line 193.
+ 1 ROOTPATH\spark(71): CodeIgniter\CodeIgniter->initialize()
+ERROR - 2022-06-27 08:28:58 --> Error connecting to the database: Access denied for user ''@'localhost' (using password: NO)
